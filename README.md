@@ -28,10 +28,8 @@ classification tasks.
 
 ## 🔥Update
 
-- ✅ **YOLOv12-l (face) trained on WIDERFace [07.11]** 
-- ✅ **YOLOv12-m (face) trained on WIDERFace [07.11]**
-- ✅ **YOLOv12-s (face) trained on WIDERFace [07.11]**
-- ✅ **YOLOv12-n (face) trained on WIDERFace [07.11]**
+- ✅ **ONNX YOLOv12-n/s/m (face) trained on WIDERFace [12.2025]** 
+- ✅ **ONNX YOLOv8-n/m (drone, football, parking) [12.2025]**
 
 ## Installation
 
