@@ -245,6 +245,51 @@ epochs=100 \
 imgsz=640
 ```
 
+# YOLOv12-builder
+
+## Inference
+
+On image:
+
+```shell
+yolo task=detect mode=predict model=yolov12m-builder.pt conf=0.2 imgsz=640 line_thickness=1 source=examples/builders.jpg
+```
+
+<div align="center">
+    <a href="./">
+        <img src="./results/builder/exp2.jpg" width="90%"/>
+    </a>
+</div>
+
+## Results
+
+PR curve:
+<div align="center">
+    <a href="./">
+        <img src="./results/builder/BoxP_curve.png" width="30%"/>
+    </a>
+    <a href="./">
+        <img src="./results/builder/BoxPR_curve.png" width="30%"/>
+    </a>
+    <a href="./">
+        <img src="./results/builder/BoxR_curve.png" width="30%"/>
+    </a>
+</div>
+
+Losses and mAP:
+<div align="center">
+    <a href="./">
+        <img src="./results/builder/results.png" width="80%"/>
+    </a>
+</div>
+
+Confusion matrix:
+<div align="center">
+    <a href="./">
+        <img src="./results/builder/confusion_matrix.png" width="70%"/>
+    </a>
+</div>
+
 # YOLOv8-person
 
 ## Inference
