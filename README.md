@@ -26,8 +26,10 @@ classification tasks.
 <img width="100%" src="https://raw.githubusercontent.com/ultralytics/assets/main/yolov8/yolo-comparison-plots.png"></a>
 </div>
 
-## 🔥Update
+## 🔥🔥🔥 Update
 
+- ✅ **New series of YOLOv12-n/s/m (builder) models for construction workers detection [01.2026]** 
+- ✅ **ONNX YOLOv12-n/s/m (builder) trained on custom dataset [01.2026]** 
 - ✅ **ONNX YOLOv12-n/s/m (face) trained on WIDERFace [12.2025]** 
 - ✅ **ONNX YOLOv8-n/m (drone, football, parking) [12.2025]**
 
@@ -68,6 +70,10 @@ cd yolo-face
 [`yolov6n-face.pt`](https://github.com/YapaLab/yolo-face/releases/download/1.0.0/yolov6n-face.pt)
 [`yolov6m-face.pt`](https://github.com/YapaLab/yolo-face/releases/download/1.0.0/yolov6m-face.pt)
 
+[`yolov12n-builder.pt`](https://github.com/YapaLab/yolo-face/releases/download/1.0.0/yolov12n-builder.pt)
+[`yolov12s-builder.pt`](https://github.com/YapaLab/yolo-face/releases/download/1.0.0/yolov12s-builder.pt)
+[`yolov12m-builder.pt`](https://github.com/YapaLab/yolo-face/releases/download/1.0.0/yolov12m-builder.pt)
+
 [`yolov8n-person.pt`](https://github.com/YapaLab/yolo-face/releases/download/1.0.0/yolov8n-person.pt)
 
 [`yolov8n-football.pt`](https://github.com/YapaLab/yolo-face/releases/download/1.0.0/yolov8n-football.pt)
@@ -84,6 +90,10 @@ cd yolo-face
 [`yolov12n-face.onnx`](https://github.com/YapaLab/yolo-face/releases/download/1.0.0/yolov12n-face.onnx)
 [`yolov12s-face.onnx`](https://github.com/YapaLab/yolo-face/releases/download/1.0.0/yolov12s-face.onnx)
 [`yolov12m-face.onnx`](https://github.com/YapaLab/yolo-face/releases/download/1.0.0/yolov12m-face.onnx)
+
+[`yolov12n-builder.onnx`](https://github.com/YapaLab/yolo-face/releases/download/1.0.0/yolov12n-builder.onnx)
+[`yolov12s-builder.onnx`](https://github.com/YapaLab/yolo-face/releases/download/1.0.0/yolov12s-builder.onnx)
+[`yolov12m-builder.onnx`](https://github.com/YapaLab/yolo-face/releases/download/1.0.0/yolov12m-builder.onnx)
 
 [`yolov8n-drone.onnx`](https://github.com/YapaLab/yolo-face/releases/download/1.0.0/yolov8n-drone.onnx)
 [`yolov8m-drone.onnx`](https://github.com/YapaLab/yolo-face/releases/download/1.0.0/yolov8m-drone.onnx)
